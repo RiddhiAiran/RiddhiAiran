@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @RiddhiAiran
+- 👋 Hi, I’m Riddhi Airan
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me datascience.riddhi@gmail.com
-- 😄 Pronouns: she/her
+- 📫 How to reach me : datascience.riddhi@gmail.com
 
-<!---
-RiddhiAiran/RiddhiAiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
