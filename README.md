@@ -94,3 +94,31 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riddhiairan&show_icons=true&locale=en" alt="riddhiairan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riddhiairan&" alt="riddhiairan" /></p>
+
+<details> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <h3>💻 GitHub Profile Stats</h3></summary>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riddhigupta3011&show_icons=true&locale=en&layout=compact" alt="riddhigupta3011" />
+
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riddhigupta3011&show_icons=true&locale=en" alt="riddhigupta3011" /></p>
+  <br/>
+  <strong>🏆riddhi lab's github stats</strong>
+
+  <a href="https://stats.hyochan.dev/en/stats/riddhigupta3011"><img src="https://stats.hyochan.dev/api/github-stats?login=riddhigupta3011" width="600" /></a>
+
+</details>
+<details>
+  <summary><h2>🔝 Top Contributed Repo</h2></summary>
+  <a href="https://github-contributor-stats.vercel.app/api?username=riddhigupta3011&limit=5&theme=flat&combine_all_yearly_contributions=true"/></a>
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="riddhigupta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=riddhigupta3011&&theme=rogue" /></a>
+</details>
+
+## github contribution snake animation
+<picture>
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/riddhiairan/riddhiairan/output/github-contribution-grid-snake.svg"
+  />
+
