@@ -97,9 +97,9 @@
 
 <details>
   <summary><h2>🔝 Top Contributed Repo</h2></summary>
-  <a href="https://github-contributor-stats.vercel.app/api?username=riddhigupta3011&limit=5&theme=flat&combine_all_yearly_contributions=true"/></a>
+  <a href="https://github-contributor-stats.vercel.app/api?username=riddhiairan&limit=5&theme=flat&combine_all_yearly_contributions=true"/></a>
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="riddhigupta's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=riddhigupta3011&&theme=rogue" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="riddhiairan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=riddhiairan&&theme=rogue" /></a>
 </details>
 
 
