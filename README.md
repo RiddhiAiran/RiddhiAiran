@@ -17,8 +17,8 @@
 
 ## About Me
 
-- 🔭 I'm currently working on **100 Days of Code**
-- 🌱 I'm currently learning **Data Engineering**
+- 🔭 I'm currently working on **Python Projects**
+- 🌱 I'm currently learning **AI Engineering**
 - 👯 I'm looking to collaborate on **AI**
 - 👨‍💻 All of my projects are available at [https://riddhiairan.github.io/](https://riddhiairan.github.io/)
 - 💬 Ask me about **Python, SQL, Data Science, Cloud**
@@ -29,7 +29,7 @@
 
 <p align="left">
   <a href="https://twitter.com/riddhiairan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riddhiairan" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/riddhiaeron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhiaeron" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/riddhiairan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riddhiaeron" height="30" width="40" /></a>
 </p>
 
 ## Skills
@@ -63,22 +63,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> MongoDB
 </p>
 
-### Cloud & DevOps
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> Docker
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> Kubernetes
-</p>
-
 ### Other Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> Git
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> Hadoop
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> Hive
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> Kafka
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> Selenium
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> Figma
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> Postman
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> MATLAB
 </p>
 
 ## GitHub Stats
